@@ -1,3 +1,8 @@
-{{ range .Data.Pages }}
-<h3><a href="{{.Permalink}}">{{ .Title }}</a></h3>
+{{ define "main" }}
+  <h1>Slides</h1>
+  {{ range where .Data.Pages "Section" "slides"}}
+    <article>
+        <h2><a href="{{.Permalink}}">{{ .Title }}</a></h2>
+    </article>
+  {{ end }}
 {{ end }}
