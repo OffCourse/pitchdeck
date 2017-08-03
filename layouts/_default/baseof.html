@@ -2,18 +2,26 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>{{ block "title" . }}
-      <!-- Blocks may include default content. -->
-      {{ .Site.Title }}
-    {{ end }}</title>
+   <link rel="stylesheet" type="text/css" href="/semantic.css">
+   <style>
+    .ui.grid {
+        height: 80vh;
+    }
+   </style>
+    <title>{{ .Site.Title }}</title>
   </head>
   <body>
     <!-- Code that all your templates share, like a header -->
-    {{ block "main" . }}
+      <div class="ui menu">
+          <div class="item">
+              Offcourse
+          </div>
+      </div>
+      {{ block "main" . }}
       <!-- The part of the page that begins to differ between templates -->
-    {{ end }}
-    {{ block "footer" . }}
-    <!-- More shared code, perhaps a footer but that can be overridden if need be in  -->
-    {{ end }}
+      {{ end }}
+      {{ block "footer" . }}
+      <!-- More shared code, perhaps a footer but that can be overridden if need be in  -->
+      {{ end }}
   </body>
 </html>

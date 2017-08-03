@@ -13,7 +13,3 @@ draft: true
 + Maraini Macedo, PR and marketing [LinkedIn]  
 
 Plus a group of 20+ global volunteers.
-
-[mission]({{< relref "slides/mission.md" >}})
-
-

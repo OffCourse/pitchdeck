@@ -14,5 +14,3 @@ Or maybe, traditional education just wasn’t accessible for you.
 Luckily, we see a positive counter movement online. One where learners and 
 experts post blog posts and videos online every day – especially in the tech 
 industry.
-
-[Pain]({{< relref "slides/pain.md" >}})

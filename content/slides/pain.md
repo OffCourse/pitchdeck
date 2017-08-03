@@ -15,5 +15,3 @@ self-taught (source: Stack Overflow). But there are two problems:
 This is where Offcourse comes in to help. 
 
 Offcourse makes learning simple.
-
-[gain]({{< relref "slides/gain.md" >}})

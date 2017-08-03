@@ -14,5 +14,3 @@ recommendations, providing valuable insight in how you learn and to recommend yo
 what blog post, article or podcast to read or listen to next. 
 
 Offcourse is the course that follows you, instead of the other way around.
-
-[vision]({{< relref "slides/vision.md" >}})

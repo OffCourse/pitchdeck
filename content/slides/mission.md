@@ -1,5 +1,5 @@
 ---
-title: "Offcourse's Ambition"
+title: "Ambition"
 role: mission
 weight: 80
 date: 2017-08-02T17:47:57+02:00
@@ -24,5 +24,3 @@ team. In the next 2 to 3 years we will become a sustainable organisation.
 ### Business Development (Offcourse B.V.)
 
 + Develop, test and commercialize our virtual learning management system for technology companies   
-
-[home]({{< relref "index.md" >}})

@@ -12,5 +12,3 @@ to learn smarter with other.
 Our platform encourages people to explore, collect and share collections of 
 hand curated links to the web’s best learning resources. It is our mission 
 to bring this community driven education around the globe.
-
-[product]({{< relref "slides/product.md" >}})
