@@ -1,3 +1,17 @@
 baseURL = "https://gatekeeper-chicken-83208.netlify.com"
 languageCode = "en-us"
 title = "Offcourse"
+
+media_folder: "img/uploads" # Folder where user uploaded files should go
+
+collections: # A list of collections the CMS should be able to edit
+  - name: "slides" # Used in routes, e.g., /admin/collections/:slug/edit
+    label: "Slides" # Used in the UI, e.g., "New Post"
+    folder: "content/slides" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: 'Draft'. name: "draft", widget "boolean" }
+      - {label: "Weight", name: "weight", widget: "number"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
