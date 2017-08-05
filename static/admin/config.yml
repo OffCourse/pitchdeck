@@ -1,0 +1,4 @@
+backend:
+  name: github
+  repo: offcourse/pitchdeck # Path to your Github repository
+  branch: master # Branch to update (master by default)
