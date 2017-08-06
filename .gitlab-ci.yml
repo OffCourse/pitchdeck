@@ -22,3 +22,22 @@ build:
   <<: *build_definition
   only:
     - master
+
+.deploy_template: &deploy_definition
+  stage: deploy
+  image: ${REGISTRY}/${CI_PROJECT_NAMESPACE}/aws-container:latest
+  script:
+    - curl ${SERVICES_INFO_ENDPOINT}/global.json > ${SERVICES_INFO_FILE} 
+    - BUCKET=$(cat ${SERVICES_INFO_FILE} | jq '.["public"]["pitchdeck"]["bucket_name"]')
+    - BUCKET="${BUCKET%\"}" && BUCKET="${BUCKET#\"}"
+    - aws s3 sync dist "s3://${BUCKET}"
+
+deploy:
+  <<: *deploy_definition
+  environment:
+    name: investors
+    url: https://pitchdeck.${PLATFORM_ENDPOINT}
+  dependencies:
+    - build
+  only:
+    - master
