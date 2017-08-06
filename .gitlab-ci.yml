@@ -28,7 +28,7 @@ build:
   image: ${REGISTRY}/offcourse/aws-container:latest
   script:
     - curl ${SERVICES_INFO_ENDPOINT}/global.json > ${SERVICES_INFO_FILE} 
-    - BUCKET=$(cat ${SERVICES_INFO_FILE} | jq '.["public"]["pitchdeck"]["bucket_name"]')
+    - BUCKET=$(cat ${SERVICES_INFO_FILE} | jq '.["pitchdeck"]["bucket_name"]')
     - BUCKET="${BUCKET%\"}" && BUCKET="${BUCKET#\"}"
     - echo $BUCKET
     - aws s3 sync dist "s3://${BUCKET}"
