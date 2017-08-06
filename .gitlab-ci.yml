@@ -17,3 +17,8 @@ variables:
   artifacts:
     paths:
       - public/
+
+build:
+  <<: *build_definition
+  only:
+    - master
