@@ -3,7 +3,6 @@ title: "Successes So Far"
 role: traction
 weight: 60
 date: 2017-08-02T18:02:27+02:00
-draft: true
 ---
 Twenty students from the University of Amsterdam learned to code through 
 Offcourse’s predecessor Coding the Humanities (2012), the first coding 

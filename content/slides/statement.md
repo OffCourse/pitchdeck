@@ -3,7 +3,6 @@ title: "So Many Reasons to Learn"
 role: "statement"
 weight: 10
 date: 2017-07-31T15:58:38+02:00
-draft: true
 ---
 Almost anything you may want to learn, you can find online. And that’s great, 
 because education is becoming more and more expensive. 

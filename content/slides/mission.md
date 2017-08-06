@@ -3,7 +3,6 @@ title: "Ambition"
 role: mission
 weight: 80
 date: 2017-08-02T17:47:57+02:00
-draft: true
 ---
 Offcourse is bootstrapping and lives off the generous donation of time by our 
 team. In the next 2 to 3 years we will become a sustainable organisation. 

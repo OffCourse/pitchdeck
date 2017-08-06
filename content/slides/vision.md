@@ -3,7 +3,6 @@ title: "The Future of Education Starts Today"
 role: vision
 weight: 40
 date: 2017-08-02T17:59:14+02:00
-draft: true
 ---
 Offcourse envisions a society where education is democratized. One where all 
 knowledge is equally available to others. One where every individual is able 

@@ -3,7 +3,6 @@ title: "Learn Any Skill You Want Yourself"
 role: pain
 weight: 20
 date: 2017-07-31T15:58:52+02:00
-draft: true 
 ---
 We believe that by finding the right resources at the right time, you can teach 
 yourself how to code and find a job. 69,1 % of professional programmers is 
