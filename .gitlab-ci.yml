@@ -11,7 +11,7 @@ variables:
 
 .build_template: &build_definition
   stage: build 
-  image: ${REGISTRY}/${CI_PROJECT_NAMESPACE}/hugo-container:latest
+  image: ${REGISTRY}/offcourse/hugo-container:latest
   script:
     - hugo -D
   artifacts:
