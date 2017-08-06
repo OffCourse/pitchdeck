@@ -1,0 +1,19 @@
+stages:
+  - build
+  - deploy
+
+variables:
+  SERVICES_INFO_ENDPOINT: https://s3.amazonaws.com/offcourse-services-info-global
+  PLATFORM_ENDPOINT: offcourse.io
+  SERVICES_INFO_FILE: services-info.json
+  SERVICES_INFO_BUCKET: s3://offcourse-services-info-global
+  REGISTRY: registry.gitlab.com
+
+.build_template: &build_definition
+  stage: build 
+  image: ${REGISTRY}/${CI_PROJECT_NAMESPACE}/hugo-container:latest
+  script:
+    - hugo -D
+  artifacts:
+    paths:
+      - public/
