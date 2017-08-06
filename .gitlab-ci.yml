@@ -31,7 +31,7 @@ build:
     - BUCKET=$(cat ${SERVICES_INFO_FILE} | jq '.["pitchdeck"]["bucket_name"]')
     - BUCKET="${BUCKET%\"}" && BUCKET="${BUCKET#\"}"
     - echo $BUCKET
-    - aws s3 sync dist "s3://${BUCKET}"
+    - aws s3 sync public "s3://${BUCKET}"
 
 deploy:
   <<: *deploy_definition
