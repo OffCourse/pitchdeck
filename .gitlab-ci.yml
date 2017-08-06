@@ -25,7 +25,7 @@ build:
 
 .deploy_template: &deploy_definition
   stage: deploy
-  image: ${REGISTRY}/${CI_PROJECT_NAMESPACE}/aws-container:latest
+  image: ${REGISTRY}/offcourse/aws-container:latest
   script:
     - curl ${SERVICES_INFO_ENDPOINT}/global.json > ${SERVICES_INFO_FILE} 
     - BUCKET=$(cat ${SERVICES_INFO_FILE} | jq '.["public"]["pitchdeck"]["bucket_name"]')
