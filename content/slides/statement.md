@@ -1,15 +1,11 @@
 ---
-title: "So Many Reasons to Learn"
-role: "statement"
+title: The Course That Follows You
+role: statement
 weight: 10
 date: 2017-07-31T15:58:38+02:00
 ---
-Almost anything you may want to learn, you can find online. And that’s great, 
-because education is becoming more and more expensive. 
+Offcourse is the TESLA Model S for learning.
 
-And there are so many reasons to learn: a promotion, a new job, a career switch. 
-Or maybe, traditional education just wasn’t accessible for you. 
+By transforming crowd-sourced lists of handpicked resources into sequences of smart-recommendations, Offcourse suggest the best resources for your interests, learning style, and skill level at the right time. Just sit back and enjoy the ride.
 
-Luckily, we see a positive counter movement online. One where learners and 
-experts post blog posts and videos online every day – especially in the tech 
-industry.
+Sometimes, however, you want to go in a direction no one (not even the best algorithm) can predict. No problem, Offcourse allows you to continuously adjust the direction of your learning. You decide where you will go next.

@@ -3,7 +3,6 @@ title: "The Course That Follows You"
 role: gain
 weight: 30
 date: 2017-07-31T15:58:57+02:00
-draft: true 
 ---
 Offcourse is a free and open online tool that helps learners to collect links 
 to the best learning resources on the web and share them with others.
