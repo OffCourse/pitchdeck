@@ -5,8 +5,6 @@ backend:
 
 media_folder: "img/uploads" # Folder where user uploaded files should go
 
-publish_mode: editorial_workflow
-
 collections: # A list of collections the CMS should be able to edit
   - name: "slides" # Used in routes, e.g., /admin/collections/:slug/edit
     label: "Slides" # Used in the UI, e.g., "New Post"
