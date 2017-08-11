@@ -1,19 +1,10 @@
 ---
-title: New Places to Learn
 role: go-to-market
-date: 2017-08-10T17:56:27+02:00
+title: New Places to Learn
 weight: 80
+date: 2017-08-10T15:56:27.000Z
 draft: true
 ---
-Learning increasingly takes place outside traditional institutions. Especially
-in coding, people of are very open to new ways of learning (online, bootcamps, 
-conferences, etc.) Also, the job market for coders is very open to people from
-a non-traditional background
+Learning takes place more and more outside of traditional institutions. Especially in coding. And the job market for coders is open to people who’ve taught themselves how to do this. 96,1% of professional programmers is self-taught (source: Stack Overflow).
 
-*69,1 % of professional programmers is  self-taught (source: Stack Overflow)*
-
-As a first step, we will focus on instructors in the coding space. Ranging from 
-trainers, bloggers, video instructors, to senior team members. When they are
-using enthousiastic about *offcourse* they automatically also spread it to their
-students (ranging from 5 to a 100.000). The *arigato* system also makes it 
-financially profitable for them to do so.
+That’s why we focus on instructors in the coding space as a first step. These instructors can be trainers, bloggers, video instructors to senior team members. Reaching 1 instructor means reaching as many of 5 to 100.000 students. And the *arigato* system makes it profitable for instructors to share their knowledge.
