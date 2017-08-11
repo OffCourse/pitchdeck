@@ -1,12 +1,10 @@
 ---
-title: Data-Driven Development
 role: business-model
-date: 2017-08-10T17:50:14+02:00
+title: Data-Driven Development
 weight: 70
+date: 2017-08-10T15:50:14.000Z
 draft: true
 ---
-For schools and companies it's highly valuable to get more detailed or 
-aggregated analytics on the performance of their students or employees. 
+It’s valuable to know how you learn. It’s especially valuable for schools and  companies to know how their students and employees learn. 
 
-In order to monetize their hunger for knowledge, We will sell actionable 
-learning analytics dashboards to them at a premium.
+Therefore, Offcourse sells actionable learning dashboards at a premium. 
