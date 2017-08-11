@@ -1,16 +1,12 @@
 ---
-title: The Course That Follows You
 role: value-proposition
-date: 2017-08-10T17:05:45+02:00
+title: The Course That Follows You
 weight: 40
+date: 2017-08-10T15:05:45.000Z
 draft: true
 ---
-Offcourse is the TESLA Model S for learning.
+Offcourse is the TESLA for learning. 
 
-By transforming crowd-sourced lists of handpicked resources into sequences of 
-smart-recommendations, Offcourse suggest the best resources for your interests, 
-learning style, and skill level at the right time. Just sit back and enjoy the ride.
+Offcourse suggests the best resources for your interests, learning style and skill level at the right time. How? By transforming crowd-sourced lists of hand picked resources into a smart stream of recommendations. Just sit back and enjoy the ride. 
 
-Sometimes, however, you want to go in a direction that no one (not even the 
-best algorithm) can predict. No problem, Offcourse allows you to continuously 
-adjust the course of your learning. You decide where you go next.
+Want to go in a direction that no one can predict? Not even the best algorithm? No problem. You can adjust the course of your own learning. You decide where you go next.
