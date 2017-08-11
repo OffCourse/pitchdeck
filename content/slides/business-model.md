@@ -1,8 +1,8 @@
 ---
 title: Share The Love
 role: business-model
-date: 2017-08-10T17:38:25+02:00
 weight: 60
+date: 2017-08-10T17:38:25+02:00
 draft: true
 ---
 People are already creating and sharing these learning resources for free. We 
