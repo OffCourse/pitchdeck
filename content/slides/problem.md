@@ -5,11 +5,11 @@ weight: 30
 date: 2017-08-10T15:21:21.000Z
 draft: true
 ---
-But right now, there’s no support to facilitate \[*describe ‘your way of learning’: online self-learning, independent learning efforts…?*\]. 
+But right now, there’s no support to facilitate \[*describe ‘your way of learning’: online self-learning, independent learning efforts…?*\].
 
 ### Traditional Education
 
-* Takes too much Time
+* Takes too much time
 * Is too expensive
 * Doesn't prepare you for the real world
 
