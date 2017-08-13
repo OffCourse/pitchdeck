@@ -5,7 +5,9 @@ weight: 30
 date: 2017-08-10T15:21:21.000Z
 draft: true
 ---
-But right now, there’s no support to facilitate \[*describe ‘your way of learning’: online self-learning, independent learning efforts…?*\].
+
+Up until now, people that pursue a lifelong of just-in-time learning, are lacking the right tools.
+Both a traditional  education and its online counterpart are unfit for the job.
 
 ### Traditional Education
 
